@@ -1,0 +1,12 @@
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\bin\Debug\Pathfinder.exe.config
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\bin\Debug\Pathfinder.exe
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\bin\Debug\Pathfinder.pdb
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\obj\Debug\Pathfinder.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\obj\Debug\Pathfinder.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\obj\Debug\Pathfinder.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\obj\Debug\Pathfinder.exe
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\obj\Debug\Pathfinder.pdb
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\obj\Debug\Pathfinder.PathfinderForm.resources
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\bin\Debug\C5.dll
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\bin\Debug\C5.xml
+C:\Users\Korisnik\Desktop\PMF\C3\C31\Vjestacka Inteligencija\Pathfinder\Pathfinder\obj\Debug\Pathfinder.csproj.CopyComplete
